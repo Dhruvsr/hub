@@ -1,0 +1,4 @@
+# Foreign Greetings Package by Dhruv Ramu
+matches:
+  - trigger: ":hello"
+    replace: "github"
