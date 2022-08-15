@@ -1,4 +1,4 @@
-name: "foreign-greetings"
+name: "multilingual-greetings"
 title: "Foreign Greetings (Hello, Goodbye, and more)"
 description: Foreign greetings is a package which allows you to say various polite greetings in multiple languages including Spanish, French, German, Latin and more.
 version: 0.1.0
