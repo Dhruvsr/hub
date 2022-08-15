@@ -14,6 +14,17 @@ The options for greetings are:
 `:gn` (Good night)
 `:ga` (Good afternoon)
 `:ge` (Good evening)
-`:thanks`
+`:thx` (Thanks)
 
 The languages supported are:
+- Afrikaans
+- Albanian
+- Amharic
+- Arabic
+- Armenian
+- Azerbaijani
+- Belarusian
+- Bengali
+- Bosnian
+- Bulgarian
+- Chinese
